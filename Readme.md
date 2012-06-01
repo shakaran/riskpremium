@@ -24,7 +24,9 @@ Risk premium is licensed under AGPLv3 http://www.gnu.org/licenses/agpl-3.0.html
 
 The code is autodocumented with php-doc syntax and some examples at the end.
 
-.. Some examples::
+Some examples
+-----------
+
     // Init the class
     $risk_premium = new RiskPremium();
     
