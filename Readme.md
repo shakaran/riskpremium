@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Risk premium is a easy PHP API class for follow the main values of Risk premium
 on Europe. 
 
